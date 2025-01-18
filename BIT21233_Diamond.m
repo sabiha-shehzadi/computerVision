@@ -1,5 +1,5 @@
 % Diamond Shape Creation Script
-% Author: Sabiha Khan
+% Author: Sabiha Shehzadi
 % Description: This script generates a diamond shape in a binary matrix using the Manhattan distance. 
 % It demonstrates how to create geometric shapes programmatically in MATLAB.
 
